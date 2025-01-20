@@ -1,4 +1,5 @@
 Hello, I'm Hafida 👩‍💻 | Full Stack Developer 🚀
+
 🌟 Développeuse full stack passionnée, je combine expertise technique et créativité pour concevoir des solutions web performantes. Forte d’un parcours en ingénierie et gestion de projets, je me suis reconvertie avec succès dans la tech pour relever des défis numériques captivants.
 
 Compétences Techniques
