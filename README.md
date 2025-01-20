@@ -6,20 +6,20 @@ Forte d’un parcours en ingénierie et gestion de projets, je me suis reconvert
 Compétences Techniques
 
 🔹 Développement Web :
-- Front-end : ReactJS, VueJS, HTML5, CSS3, JavaScript (ES6+).
-- Back-end : Python (Django, DRF), NodeJS, REST API, WebSockets.
-- Outils : Docker, Git, CI/CD, UNIX/Linux.
+- Front-end : ReactJS, VueJS, HTML5, CSS3, JavaScript (ES6+).- ![ReactJS Badge](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=white)  ![VueJS Badge](https://img.shields.io/badge/VueJS-4FC08D?style=flat&logo=vue.js&logoColor=white)  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- Back-end : Python (Django, DRF), NodeJS, REST API, WebSockets.![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  ![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![REST API Badge](https://img.shields.io/badge/REST%20API-25A162?style=flat&logo=api&logoColor=white)  ![WebSockets Badge](https://img.shields.io/badge/WebSockets-4B0082?style=flat&logo=websocket&logoColor=white) 
+- Outils : Docker, Git, UNIX/Linux.- ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![CI/CD Badge](https://img.shields.io/badge/CI/CD-00BFFF?style=flat&logo=ci-cd&logoColor=white) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 
 🔹 Bases de Données :
-- SQL (PostgreSQL, MySQL).
+- SQL (PostgreSQL ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) , MySQL ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ).
 
 🔹 Méthodes et Processus :
-- Méthodologies agiles : Scrum, Kanban.
-- Gestion et suivi de projets numériques.
+- Méthodologies agiles : Scrum, Kanban. ![Scrum Badge](https://img.shields.io/badge/Scrum-DA3A28?style=flat&logo=scrum&logoColor=white) ![Kanban Badge](https://img.shields.io/badge/Kanban-0072B1?style=flat&logo=kanban&logoColor=white)  
+- Gestion et suivi de projets numériques. ![Project Management Badge](https://img.shields.io/badge/Project%20Management-FF7F50?style=flat&logo=project-management&logoColor=white)  
 
 🔹 Autres Atouts :
-- Intégration CMS avec WordPress.
-- Python pour la data science et l’automatisation.
+- Intégration CMS avec WordPress. ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
+- Python pour la data science et l’automatisation. ![Data Science Badge](https://img.shields.io/badge/Data%20Science-00BFFF?style=flat&logo=data-science&logoColor=white)  
 
 📈 Points Forts :
 - Création de solutions techniques innovantes dans des environnements collaboratifs.
@@ -30,3 +30,45 @@ Quelques Faits sur Moi :
 - 🔭 Formation : Actuellement en programme Full Stack à INP-ENSEEIHT Toulouse.
 - 📚 Apprentissage : Toujours en quête de nouvelles compétences (IA, data science, technologies émergentes).
 - 🌐 Passions : Explorer les dernières tendances tech et créer des solutions impactantes.
+
+
+### Développement Web
+🔹 **Front-end**  
+![ReactJS Badge](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=white)  
+![VueJS Badge](https://img.shields.io/badge/VueJS-4FC08D?style=flat&logo=vue.js&logoColor=white)  
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
+🔹 **Back-end**  
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![REST API Badge](https://img.shields.io/badge/REST%20API-25A162?style=flat&logo=api&logoColor=white)  
+![WebSockets Badge](https://img.shields.io/badge/WebSockets-4B0082?style=flat&logo=websocket&logoColor=white)  
+
+🔹 **Outils**  
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![CI/CD Badge](https://img.shields.io/badge/CI/CD-00BFFF?style=flat&logo=ci-cd&logoColor=white)  
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+
+### Bases de Données
+🔹 **SQL**  
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
+### Méthodes et Processus
+🔹 **Méthodologies Agiles**  
+![Scrum Badge](https://img.shields.io/badge/Scrum-DA3A28?style=flat&logo=scrum&logoColor=white)  
+![Kanban Badge](https://img.shields.io/badge/Kanban-0072B1?style=flat&logo=kanban&logoColor=white)  
+
+🔹 **Gestion de Projets**  
+![Project Management Badge](https://img.shields.io/badge/Project%20Management-FF7F50?style=flat&logo=project-management&logoColor=white)  
+
+### Autres Atouts
+🔹 **CMS**  
+![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
+
+🔹 **Data Science et Automatisation**  
+![Data Science Badge](https://img.shields.io/badge/Data%20Science-00BFFF?style=flat&logo=data-science&logoColor=white)  
