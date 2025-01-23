@@ -37,7 +37,7 @@
 ----------------------------------------------------------------------------French version ----------------------------------------------------------------------
 
 
-Bonjour, Je suis  Hafida 👩‍💻 | Full Stack Developeuse 🚀
+Bonjour, Je suis  Hafida 👩‍💻 | Developeuse Full Stack  🚀
 
 🌟 Développeuse full stack passionnée, je combine expertise technique et créativité pour concevoir des solutions web performantes. 
 Forte d’un parcours en ingénierie et gestion de projets, je me suis reconvertie avec succès dans la tech pour relever des défis numériques captivants.
