@@ -12,15 +12,14 @@
 
 - **Tools**:  ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 
-🔹 **Databases**:  
-- ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+🔹 **Databases**:  ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
 🔹 **Methods and Processes**:  
 - Agile methodologies: ![Scrum Badge](https://img.shields.io/badge/Scrum-DA3A28?style=flat&logo=scrum&logoColor=white) ![Kanban Badge](https://img.shields.io/badge/Kanban-0072B1?style=flat&logo=kanban&logoColor=white)  
 - Management and tracking of digital projects.   ![Project Management Badge](https://img.shields.io/badge/Project%20Management-FF7F50?style=flat&logo=project-management&logoColor=white)  
 
 🔹 **Other Assets**:  
-- CMS integration with WordPress.  ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
+- CMS integration with ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
 - Python for data science and automation.   ![Data Science Badge](https://img.shields.io/badge/Data%20Science-00BFFF?style=flat&logo=data-science&logoColor=white)  
 
 📈 **Strengths**:  
@@ -49,15 +48,14 @@ Compétences Techniques
 - Back-end : ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  ![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![REST API Badge](https://img.shields.io/badge/REST%20API-25A162?style=flat&logo=api&logoColor=white)  ![WebSockets Badge](https://img.shields.io/badge/WebSockets-4B0082?style=flat&logo=websocket&logoColor=white) 
 - Outils : ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 
-🔹 Bases de Données :
-- SQL (PostgreSQL ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) , MySQL ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ).
+🔹 Bases de Données : ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ,  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ).
 
 🔹 Méthodes et Processus :
 - Méthodologies agiles :  ![Scrum Badge](https://img.shields.io/badge/Scrum-DA3A28?style=flat&logo=scrum&logoColor=white) ![Kanban Badge](https://img.shields.io/badge/Kanban-0072B1?style=flat&logo=kanban&logoColor=white)  
 - Gestion et suivi de projets numériques. ![Project Management Badge](https://img.shields.io/badge/Project%20Management-FF7F50?style=flat&logo=project-management&logoColor=white)  
 
 🔹 Autres Atouts :
-- Intégration CMS avec WordPress. ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
+- Intégration CMS avec ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
 - Python pour la data science et l’automatisation. ![Data Science Badge](https://img.shields.io/badge/Data%20Science-00BFFF?style=flat&logo=data-science&logoColor=white)  
 
 📈 Points Forts :
